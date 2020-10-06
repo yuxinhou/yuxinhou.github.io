@@ -5,7 +5,13 @@ This website was set at 6th October,2020.More information will be added in it.
 ### What a person am I?
 
 I think I am an uncommon people,in other words,I am not satisfied with the common life.But I can't change something ,only can try my best to create a road that belongs to me.
+In daily life, I like Chemistry and history,painting and taking photos,sometimes running.If you have any ideas and similar hobbies,you could call me.
 
+### My contact
+Mobile phone:18604774345
+E-mail:h1832705463@126.com
+QQ:1832705463
+Wechat:18604774345
 
 ```markdown
 Syntax highlighted code block
