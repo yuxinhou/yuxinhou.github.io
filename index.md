@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## Hello,world!Hello,my friends!
 
-You can use the [editor on GitHub](https://github.com/yuxinhou/yuxinhou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website was set at 6th October,2020.More information will be added in it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What a person am I?
 
-### Markdown
+I think I am an uncommon people,in other words,I am not satisfied with the common life.But I can't change something ,only can try my best to create a road that belongs to me.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
