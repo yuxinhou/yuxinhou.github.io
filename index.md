@@ -1,7 +1,7 @@
 ## Hello,world!Hello,my friends!
 
 This website was set at 6th October,2020.More information will be added in it.
-http://google.com
+http://google.com - automatic!
 
 ![GitHub Logo](/tx.jpg)
 
@@ -28,8 +28,11 @@ In daily life, I like Chemistry and history,painting and taking photos,sometimes
 *Wechat:18604774345
 
 ```markdown
-
-
+            308
+First Header | Second Header
+------------ | -------------
+Yushi Wang   | jiang Chang
+Xinyu Hou    | Jinwen Guo
 ```
 
 ### Themes
