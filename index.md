@@ -3,7 +3,8 @@
 This website was set at 6th October,2020.More information will be added in it.
 http://google.com
 
-tx.jpg
+![GitHub Logo](/tx.jpg)
+Format: ![Alt Text](url)
 
 ###### Yuxin Hou 2001.5 
 Peking University
@@ -36,7 +37,8 @@ In daily life, I like Chemistry and history,painting and taking photos,sometimes
 
 Welcome to Arknights!
 
-A1.jpg
+![GitHub Logo](/A1.jpg)
+Format: ![Alt Text](url)
 
 ### Support 
 
