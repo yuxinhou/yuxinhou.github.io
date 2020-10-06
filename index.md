@@ -32,7 +32,7 @@ In daily life, I like Chemistry and history,painting and taking photos,sometimes
 
 ```
 
-### Other Themes
+### Themes
 
 Welcome to Arknights!
 
