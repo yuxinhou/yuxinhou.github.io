@@ -31,7 +31,7 @@ In daily life, I like Chemistry and history,painting and taking photos,sometimes
             308
 First Header | Second Header
 ------------ | -------------
-Yushi Wang   | jiang Chang
+Yushi Wang   | jian Chang
 Xinyu Hou    | Jinwen Guo
 ```
 
