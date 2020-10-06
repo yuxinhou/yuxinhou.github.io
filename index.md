@@ -14,6 +14,7 @@ I think I am an uncommon people,in other words,I am not satisfied with the commo
 In daily life, I like Chemistry and history,painting and taking photos,sometimes running.If you have any ideas and similar hobbies,you could call me.
 
 >It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.
+
 >-A Tale of Two Cities,Dickens Charles
 
 
@@ -34,6 +35,8 @@ In daily life, I like Chemistry and history,painting and taking photos,sometimes
 ### Other Themes
 
 Welcome to Arknights!
+
+A1.jpg
 
 ### Support 
 
