@@ -1,46 +1,38 @@
 ## Hello,world!Hello,my friends!
 
 This website was set at 6th October,2020.More information will be added in it.
+http://google.com
 
-
+tx.jpg
+###### Yuxin Hou 2001.5 Peking University
 
 ### What a person am I?
 
 I think I am an uncommon people,in other words,I am not satisfied with the common life.But I can't change something ,only can try my best to create a road that belongs to me.
 In daily life, I like Chemistry and history,painting and taking photos,sometimes running.If you have any ideas and similar hobbies,you could call me.
 
+>
+>
+
+
 ### Contact
-Mobile phone:18604774345
+*Mobile phone:18604774345
 
-E-mail:h1832705463@126.com
+*E-mail:h1832705463@126.com
 
-QQ:1832705463
+*QQ:1832705463
 
-Wechat:18604774345
+*Wechat:18604774345
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
+### Other Themes
 
-### Jekyll Themes
+Welcome to Arknights!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuxinhou/yuxinhou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Support 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and they’ll help you sort it out.
