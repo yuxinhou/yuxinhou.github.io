@@ -1,7 +1,7 @@
 ## Hello,world!Hello,my friends!
 
 This website was set at 6th October,2020.More information will be added in it.
-http://google.com - automatic!
+http://google.com 
 
 ![GitHub Logo](/tx.jpg)
 
