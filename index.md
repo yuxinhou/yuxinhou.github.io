@@ -5,7 +5,7 @@ This website was set at 6th October,2020.More information will be added in it.
 
 ![GitHub Logo](/tx.jpg)
 
-<EMBED src="sys_friend.mid" autostart="bool" loop="n" width="m" height="k">
+<EMBED src="sys_friend.mid" autostart="TRUE" loop="TRUE" width="100X" height="50X">
 
 # Yuxin Hou 2001.5 
 ##### Peking University
