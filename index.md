@@ -5,13 +5,7 @@ This website was set at 6th October,2020.More information will be added in it.
 
 ![GitHub Logo](/tx.jpg)
 
-(function(){
-    var audioCounts = 0;
-    var songs = ["sys_friend.mp3"];
-    var audioSrcFile = "../audio/";
-    var player = document.getElementsByTagName("audio")[0];
-    var audioCounts;
-    }
+<EMBED src="sys_friend.mid" autostart="bool" loop="n" width="m" height="k">
 
 # Yuxin Hou 2001.5 
 ##### Peking University
