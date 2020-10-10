@@ -39,7 +39,7 @@ Xinyu Hou    | Jinwen Guo
 
 Welcome to Arknights!
 
-<embed src="sys_friend.mp3" hidden="true" autostart="true" loop="true">
+![GitHub Music](/sys_friend.mp3)
 
 ![GitHub Logo](/A1.jpg)
 ![GitHub Logo](/A2.jpg)
