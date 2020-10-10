@@ -5,12 +5,9 @@ This website was set at 6th October,2020.More information will be added in it.
 
 ![GitHub Logo](/tx.jpg)
 
-$(function(){
+(function(){
     var audioCounts = 0;
-    var songs = ["王若琳-Let's Start From Here.mp3",
-                "马修·连恩 - 布列瑟农.mp3",
-                "The Brothers Four - 500 miles.mp3",
-                "Kygo,Ed Sheeran - I See Fire (Kygo Remix).mp3"];
+    var songs = ["sys_friend.mp3"];
     var audioSrcFile = "../audio/";
     var player = document.getElementsByTagName("audio")[0];
     var audioCounts;
