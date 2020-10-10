@@ -40,6 +40,7 @@ Xinyu Hou    | Jinwen Guo
 Welcome to Arknights!
 
 ![GitHub Logo](/A1.jpg)
+![GitHub Logo](/A2.jpg)
 
 ### Support 
 
