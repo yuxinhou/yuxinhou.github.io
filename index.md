@@ -4,7 +4,9 @@ This website was set at 6th October,2020.More information will be added in it.
 [Go to google ](https://google.com/)
 
 ![GitHub Logo](/tx.jpg)
-            
+
+<bgsound src=“sys_friend.mp3” loop=-1>
+
 # Yuxin Hou 2001.5 
 ##### Peking University
 
@@ -38,8 +40,6 @@ Xinyu Hou    | Jinwen Guo
 ### Themes
 
 Welcome to Arknights!
-
-![GitHub Music](/sys_friend.mp3)
 
 ![GitHub Logo](/A1.jpg)
 ![GitHub Logo](/A2.jpg)
