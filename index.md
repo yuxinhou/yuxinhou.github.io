@@ -3,9 +3,9 @@
 This website was set at 6th October,2020.More information will be added in it.
 [Go to google ](https://google.com/)
 
-![GitHub Logo](/tx.jpg)
-
 <EMBED src="sys_friend.mp3" autostart="TRUE" loop="TRUE" width="400X" height="50X">
+
+![GitHub Logo](/tx.jpg)
 
 # Yuxin Hou 2001.5 
 ##### Peking University
