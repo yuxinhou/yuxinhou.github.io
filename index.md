@@ -3,7 +3,7 @@
 This website was set at 6th October,2020.More information will be added in it.
 [Go to google ](https://google.com/)
 
-<embed src="sys_friend.mp3" hidden="true" autostart="true" loop="true" width="400X" height="50X">
+<embed src="sys_friend.mp3" autostart="true" loop="true" width="400X" height="50X">
 
 ![GitHub Logo](/tx.jpg)
 
@@ -33,8 +33,8 @@ In daily life, I like Chemistry and history,painting and taking photos,sometimes
             308
 First Header | Second Header
 ------------ | -------------
-[Yushi Wang](kat717.github.io/) | [jian Chang](cj-yy.github.io/)
-Xinyu Hou    | [Jinwen Guo](guojinwen1.github.io/)
+[Yushi Wang](https:kat717.github.io/) |[jian Chang](https:cj-yy.github.io/)
+Xinyu Hou    |[Jinwen Guo](https:guojinwen1.github.io/)
 ```
 
 ### Themes
