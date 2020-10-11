@@ -29,7 +29,6 @@ In daily life, I like Chemistry and history,painting and taking photos,sometimes
 
 *Wechat:18604774345*
 
-```markdown
             308
 First Header | Second Header
 ------------ | -------------
