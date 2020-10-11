@@ -34,7 +34,6 @@ First Header | Second Header
 ------------ | -------------
 [Yushi Wang](https:kat717.github.io/) |[jian Chang](https:cj-yy.github.io/)
 Xinyu Hou    |[Jinwen Guo](https:guojinwen1.github.io/)
-```
 
 ### Themes
 
