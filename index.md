@@ -33,7 +33,7 @@ In daily life, I like Chemistry and history,painting and taking photos,sometimes
 
 First Header | Second Header
 ------------ | -------------
-[Yushi Wang](https:kat717.github.io/) |[jian Chang](https:cj-yy.github.io/)
+[Yushi Wang](https:kat717.github.io/) |[Jian Chang](https:cj-yy.github.io/)
 Xinyu Hou    |[Jinwen Guo](https:guojinwen1.github.io/)
 
 ### Themes
