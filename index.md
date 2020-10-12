@@ -7,7 +7,7 @@ This website was set at 6th October,2020.More information will be added in it.
 
 ![GitHub Logo](/tx.jpg)
 
-<background>
+</background>
 
 # Yuxin Hou 2001.5 
 ##### Peking University
