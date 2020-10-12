@@ -33,12 +33,12 @@ In daily life, I like Chemistry and history,painting and taking photos,sometimes
 
 Right Side   | Left Side 
 ------------ | -------------
-[Yushi Wang](https:kat717.github.io/) |[Jian Chang](https:cj-yy.github.io/)
-Xinyu Hou    |[Jinwen Guo](https:guojinwen1.github.io/)
+[Yushi Wang](https://kat717.github.io/) |[Jian Chang](https://cj-yy.github.io/)
+Xinyu Hou    |[Jinwen Guo](https://guojinwen1.github.io/)
 
 ### Themes
 
-Welcome to Arknights!
+[Welcome to Arknights!](https://ak.hypergryph.com/index/)
 
 ![GitHub Logo](/A1.jpg)
 ![GitHub Logo](/A2.jpg)
