@@ -31,7 +31,7 @@ In daily life, I like Chemistry and history,painting and taking photos,sometimes
 
 #### Room 308
 
-First Header | Second Header
+First        | Second 
 ------------ | -------------
 [Yushi Wang](https:kat717.github.io/) |[Jian Chang](https:cj-yy.github.io/)
 Xinyu Hou    |[Jinwen Guo](https:guojinwen1.github.io/)
