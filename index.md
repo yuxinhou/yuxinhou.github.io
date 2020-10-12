@@ -3,7 +3,7 @@
 This website was set at 6th October,2020.More information will be added in it.
 [Go to google ](https://google.com/)
 
-<embed src="sys_friend.mp3" autostart="true" loop="true" width="400X" height="50X">B
+<embed src="sys_friend.mp3" autostart="true" loop="true" width="400X" height="50X">
 
 ![GitHub Logo](/tx.jpg)
 
