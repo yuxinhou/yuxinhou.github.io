@@ -45,4 +45,4 @@ Welcome to Arknights!
 
 ### Support 
 
-Having trouble with Pages? Check out [documentation](https://docs.github.com/categories/github-pages-basics/)and they’ll help you work it out.
+Having trouble with Pages? Check out [documentation](https://docs.github.com/categories/github-pages-basics/) and they’ll help you work it out.
